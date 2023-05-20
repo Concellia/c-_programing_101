@@ -1,0 +1,15 @@
+C:\Users\rhant001\Desktop\c-_programing_101\ReadAndWriteToFile\ReadAndWriteToFile\bin\Debug\net6.0\ReadAndWriteToFile.exe
+C:\Users\rhant001\Desktop\c-_programing_101\ReadAndWriteToFile\ReadAndWriteToFile\bin\Debug\net6.0\ReadAndWriteToFile.deps.json
+C:\Users\rhant001\Desktop\c-_programing_101\ReadAndWriteToFile\ReadAndWriteToFile\bin\Debug\net6.0\ReadAndWriteToFile.runtimeconfig.json
+C:\Users\rhant001\Desktop\c-_programing_101\ReadAndWriteToFile\ReadAndWriteToFile\bin\Debug\net6.0\ReadAndWriteToFile.dll
+C:\Users\rhant001\Desktop\c-_programing_101\ReadAndWriteToFile\ReadAndWriteToFile\bin\Debug\net6.0\ReadAndWriteToFile.pdb
+C:\Users\rhant001\Desktop\c-_programing_101\ReadAndWriteToFile\ReadAndWriteToFile\obj\Debug\net6.0\ReadAndWriteToFile.csproj.AssemblyReference.cache
+C:\Users\rhant001\Desktop\c-_programing_101\ReadAndWriteToFile\ReadAndWriteToFile\obj\Debug\net6.0\ReadAndWriteToFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rhant001\Desktop\c-_programing_101\ReadAndWriteToFile\ReadAndWriteToFile\obj\Debug\net6.0\ReadAndWriteToFile.AssemblyInfoInputs.cache
+C:\Users\rhant001\Desktop\c-_programing_101\ReadAndWriteToFile\ReadAndWriteToFile\obj\Debug\net6.0\ReadAndWriteToFile.AssemblyInfo.cs
+C:\Users\rhant001\Desktop\c-_programing_101\ReadAndWriteToFile\ReadAndWriteToFile\obj\Debug\net6.0\ReadAndWriteToFile.csproj.CoreCompileInputs.cache
+C:\Users\rhant001\Desktop\c-_programing_101\ReadAndWriteToFile\ReadAndWriteToFile\obj\Debug\net6.0\ReadAndWriteToFile.dll
+C:\Users\rhant001\Desktop\c-_programing_101\ReadAndWriteToFile\ReadAndWriteToFile\obj\Debug\net6.0\refint\ReadAndWriteToFile.dll
+C:\Users\rhant001\Desktop\c-_programing_101\ReadAndWriteToFile\ReadAndWriteToFile\obj\Debug\net6.0\ReadAndWriteToFile.pdb
+C:\Users\rhant001\Desktop\c-_programing_101\ReadAndWriteToFile\ReadAndWriteToFile\obj\Debug\net6.0\ReadAndWriteToFile.genruntimeconfig.cache
+C:\Users\rhant001\Desktop\c-_programing_101\ReadAndWriteToFile\ReadAndWriteToFile\obj\Debug\net6.0\ref\ReadAndWriteToFile.dll

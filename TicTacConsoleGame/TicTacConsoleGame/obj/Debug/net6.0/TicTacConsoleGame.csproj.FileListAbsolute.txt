@@ -1,0 +1,15 @@
+C:\Users\rhant001\Desktop\c-_programing_101\TicTacConsoleGame\TicTacConsoleGame\bin\Debug\net6.0\TicTacConsoleGame.exe
+C:\Users\rhant001\Desktop\c-_programing_101\TicTacConsoleGame\TicTacConsoleGame\bin\Debug\net6.0\TicTacConsoleGame.deps.json
+C:\Users\rhant001\Desktop\c-_programing_101\TicTacConsoleGame\TicTacConsoleGame\bin\Debug\net6.0\TicTacConsoleGame.runtimeconfig.json
+C:\Users\rhant001\Desktop\c-_programing_101\TicTacConsoleGame\TicTacConsoleGame\bin\Debug\net6.0\TicTacConsoleGame.dll
+C:\Users\rhant001\Desktop\c-_programing_101\TicTacConsoleGame\TicTacConsoleGame\bin\Debug\net6.0\TicTacConsoleGame.pdb
+C:\Users\rhant001\Desktop\c-_programing_101\TicTacConsoleGame\TicTacConsoleGame\obj\Debug\net6.0\TicTacConsoleGame.csproj.AssemblyReference.cache
+C:\Users\rhant001\Desktop\c-_programing_101\TicTacConsoleGame\TicTacConsoleGame\obj\Debug\net6.0\TicTacConsoleGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rhant001\Desktop\c-_programing_101\TicTacConsoleGame\TicTacConsoleGame\obj\Debug\net6.0\TicTacConsoleGame.AssemblyInfoInputs.cache
+C:\Users\rhant001\Desktop\c-_programing_101\TicTacConsoleGame\TicTacConsoleGame\obj\Debug\net6.0\TicTacConsoleGame.AssemblyInfo.cs
+C:\Users\rhant001\Desktop\c-_programing_101\TicTacConsoleGame\TicTacConsoleGame\obj\Debug\net6.0\TicTacConsoleGame.csproj.CoreCompileInputs.cache
+C:\Users\rhant001\Desktop\c-_programing_101\TicTacConsoleGame\TicTacConsoleGame\obj\Debug\net6.0\TicTacConsoleGame.dll
+C:\Users\rhant001\Desktop\c-_programing_101\TicTacConsoleGame\TicTacConsoleGame\obj\Debug\net6.0\refint\TicTacConsoleGame.dll
+C:\Users\rhant001\Desktop\c-_programing_101\TicTacConsoleGame\TicTacConsoleGame\obj\Debug\net6.0\TicTacConsoleGame.pdb
+C:\Users\rhant001\Desktop\c-_programing_101\TicTacConsoleGame\TicTacConsoleGame\obj\Debug\net6.0\TicTacConsoleGame.genruntimeconfig.cache
+C:\Users\rhant001\Desktop\c-_programing_101\TicTacConsoleGame\TicTacConsoleGame\obj\Debug\net6.0\ref\TicTacConsoleGame.dll
