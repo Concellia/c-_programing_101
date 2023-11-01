@@ -1,0 +1,16 @@
+C:\Users\rhant001\Desktop\c-_programing_101\WPF 002\WPF 002\bin\Debug\WPF 002.exe.config
+C:\Users\rhant001\Desktop\c-_programing_101\WPF 002\WPF 002\bin\Debug\WPF 002.exe
+C:\Users\rhant001\Desktop\c-_programing_101\WPF 002\WPF 002\bin\Debug\WPF 002.pdb
+C:\Users\rhant001\Desktop\c-_programing_101\WPF 002\WPF 002\obj\Debug\WPF 002.csproj.AssemblyReference.cache
+C:\Users\rhant001\Desktop\c-_programing_101\WPF 002\WPF 002\obj\Debug\WPF 002.csproj.SuggestedBindingRedirects.cache
+C:\Users\rhant001\Desktop\c-_programing_101\WPF 002\WPF 002\obj\Debug\MainWindow.g.cs
+C:\Users\rhant001\Desktop\c-_programing_101\WPF 002\WPF 002\obj\Debug\App.g.cs
+C:\Users\rhant001\Desktop\c-_programing_101\WPF 002\WPF 002\obj\Debug\WPF 002_MarkupCompile.cache
+C:\Users\rhant001\Desktop\c-_programing_101\WPF 002\WPF 002\obj\Debug\WPF 002_MarkupCompile.lref
+C:\Users\rhant001\Desktop\c-_programing_101\WPF 002\WPF 002\obj\Debug\MainWindow.baml
+C:\Users\rhant001\Desktop\c-_programing_101\WPF 002\WPF 002\obj\Debug\WPF 002.g.resources
+C:\Users\rhant001\Desktop\c-_programing_101\WPF 002\WPF 002\obj\Debug\WPF_002.Properties.Resources.resources
+C:\Users\rhant001\Desktop\c-_programing_101\WPF 002\WPF 002\obj\Debug\WPF 002.csproj.GenerateResource.cache
+C:\Users\rhant001\Desktop\c-_programing_101\WPF 002\WPF 002\obj\Debug\WPF 002.csproj.CoreCompileInputs.cache
+C:\Users\rhant001\Desktop\c-_programing_101\WPF 002\WPF 002\obj\Debug\WPF 002.exe
+C:\Users\rhant001\Desktop\c-_programing_101\WPF 002\WPF 002\obj\Debug\WPF 002.pdb

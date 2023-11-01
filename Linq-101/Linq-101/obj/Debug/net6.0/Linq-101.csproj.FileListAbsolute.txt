@@ -1,0 +1,15 @@
+C:\Users\rhant001\Desktop\c-_programing_101\Linq-101\Linq-101\bin\Debug\net6.0\Linq-101.exe
+C:\Users\rhant001\Desktop\c-_programing_101\Linq-101\Linq-101\bin\Debug\net6.0\Linq-101.deps.json
+C:\Users\rhant001\Desktop\c-_programing_101\Linq-101\Linq-101\bin\Debug\net6.0\Linq-101.runtimeconfig.json
+C:\Users\rhant001\Desktop\c-_programing_101\Linq-101\Linq-101\bin\Debug\net6.0\Linq-101.dll
+C:\Users\rhant001\Desktop\c-_programing_101\Linq-101\Linq-101\bin\Debug\net6.0\Linq-101.pdb
+C:\Users\rhant001\Desktop\c-_programing_101\Linq-101\Linq-101\obj\Debug\net6.0\Linq-101.csproj.AssemblyReference.cache
+C:\Users\rhant001\Desktop\c-_programing_101\Linq-101\Linq-101\obj\Debug\net6.0\Linq-101.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rhant001\Desktop\c-_programing_101\Linq-101\Linq-101\obj\Debug\net6.0\Linq-101.AssemblyInfoInputs.cache
+C:\Users\rhant001\Desktop\c-_programing_101\Linq-101\Linq-101\obj\Debug\net6.0\Linq-101.AssemblyInfo.cs
+C:\Users\rhant001\Desktop\c-_programing_101\Linq-101\Linq-101\obj\Debug\net6.0\Linq-101.csproj.CoreCompileInputs.cache
+C:\Users\rhant001\Desktop\c-_programing_101\Linq-101\Linq-101\obj\Debug\net6.0\Linq-101.dll
+C:\Users\rhant001\Desktop\c-_programing_101\Linq-101\Linq-101\obj\Debug\net6.0\refint\Linq-101.dll
+C:\Users\rhant001\Desktop\c-_programing_101\Linq-101\Linq-101\obj\Debug\net6.0\Linq-101.pdb
+C:\Users\rhant001\Desktop\c-_programing_101\Linq-101\Linq-101\obj\Debug\net6.0\Linq-101.genruntimeconfig.cache
+C:\Users\rhant001\Desktop\c-_programing_101\Linq-101\Linq-101\obj\Debug\net6.0\ref\Linq-101.dll

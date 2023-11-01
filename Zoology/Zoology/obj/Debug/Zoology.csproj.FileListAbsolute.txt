@@ -1,0 +1,16 @@
+C:\Users\rhant001\Desktop\c-_programing_101\Zoology\Zoology\obj\Debug\Zoology.csproj.AssemblyReference.cache
+C:\Users\rhant001\Desktop\c-_programing_101\Zoology\Zoology\obj\Debug\Zoology.csproj.SuggestedBindingRedirects.cache
+C:\Users\rhant001\Desktop\c-_programing_101\Zoology\Zoology\obj\Debug\MainWindow.g.cs
+C:\Users\rhant001\Desktop\c-_programing_101\Zoology\Zoology\obj\Debug\App.g.cs
+C:\Users\rhant001\Desktop\c-_programing_101\Zoology\Zoology\obj\Debug\Zoology_MarkupCompile.cache
+C:\Users\rhant001\Desktop\c-_programing_101\Zoology\Zoology\obj\Debug\Zoology_MarkupCompile.lref
+C:\Users\rhant001\Desktop\c-_programing_101\Zoology\Zoology\bin\Debug\Zoology.exe.config
+C:\Users\rhant001\Desktop\c-_programing_101\Zoology\Zoology\bin\Debug\Zoology.exe
+C:\Users\rhant001\Desktop\c-_programing_101\Zoology\Zoology\bin\Debug\Zoology.pdb
+C:\Users\rhant001\Desktop\c-_programing_101\Zoology\Zoology\obj\Debug\MainWindow.baml
+C:\Users\rhant001\Desktop\c-_programing_101\Zoology\Zoology\obj\Debug\Zoology.g.resources
+C:\Users\rhant001\Desktop\c-_programing_101\Zoology\Zoology\obj\Debug\Zoology.Properties.Resources.resources
+C:\Users\rhant001\Desktop\c-_programing_101\Zoology\Zoology\obj\Debug\Zoology.csproj.GenerateResource.cache
+C:\Users\rhant001\Desktop\c-_programing_101\Zoology\Zoology\obj\Debug\Zoology.csproj.CoreCompileInputs.cache
+C:\Users\rhant001\Desktop\c-_programing_101\Zoology\Zoology\obj\Debug\Zoology.exe
+C:\Users\rhant001\Desktop\c-_programing_101\Zoology\Zoology\obj\Debug\Zoology.pdb

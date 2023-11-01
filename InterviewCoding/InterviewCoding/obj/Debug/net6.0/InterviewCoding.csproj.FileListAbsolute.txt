@@ -1,0 +1,15 @@
+C:\Users\rhant001\Desktop\c-_programing_101\InterviewCoding\InterviewCoding\bin\Debug\net6.0\InterviewCoding.exe
+C:\Users\rhant001\Desktop\c-_programing_101\InterviewCoding\InterviewCoding\bin\Debug\net6.0\InterviewCoding.deps.json
+C:\Users\rhant001\Desktop\c-_programing_101\InterviewCoding\InterviewCoding\bin\Debug\net6.0\InterviewCoding.runtimeconfig.json
+C:\Users\rhant001\Desktop\c-_programing_101\InterviewCoding\InterviewCoding\bin\Debug\net6.0\InterviewCoding.dll
+C:\Users\rhant001\Desktop\c-_programing_101\InterviewCoding\InterviewCoding\bin\Debug\net6.0\InterviewCoding.pdb
+C:\Users\rhant001\Desktop\c-_programing_101\InterviewCoding\InterviewCoding\obj\Debug\net6.0\InterviewCoding.csproj.AssemblyReference.cache
+C:\Users\rhant001\Desktop\c-_programing_101\InterviewCoding\InterviewCoding\obj\Debug\net6.0\InterviewCoding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rhant001\Desktop\c-_programing_101\InterviewCoding\InterviewCoding\obj\Debug\net6.0\InterviewCoding.AssemblyInfoInputs.cache
+C:\Users\rhant001\Desktop\c-_programing_101\InterviewCoding\InterviewCoding\obj\Debug\net6.0\InterviewCoding.AssemblyInfo.cs
+C:\Users\rhant001\Desktop\c-_programing_101\InterviewCoding\InterviewCoding\obj\Debug\net6.0\InterviewCoding.csproj.CoreCompileInputs.cache
+C:\Users\rhant001\Desktop\c-_programing_101\InterviewCoding\InterviewCoding\obj\Debug\net6.0\InterviewCoding.dll
+C:\Users\rhant001\Desktop\c-_programing_101\InterviewCoding\InterviewCoding\obj\Debug\net6.0\refint\InterviewCoding.dll
+C:\Users\rhant001\Desktop\c-_programing_101\InterviewCoding\InterviewCoding\obj\Debug\net6.0\InterviewCoding.pdb
+C:\Users\rhant001\Desktop\c-_programing_101\InterviewCoding\InterviewCoding\obj\Debug\net6.0\InterviewCoding.genruntimeconfig.cache
+C:\Users\rhant001\Desktop\c-_programing_101\InterviewCoding\InterviewCoding\obj\Debug\net6.0\ref\InterviewCoding.dll

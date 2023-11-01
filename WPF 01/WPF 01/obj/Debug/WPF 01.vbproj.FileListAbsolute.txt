@@ -1,0 +1,18 @@
+C:\Users\rhant001\Desktop\c-_programing_101\WPF 01\WPF 01\bin\Debug\WPF 01.exe.config
+C:\Users\rhant001\Desktop\c-_programing_101\WPF 01\WPF 01\bin\Debug\WPF 01.exe
+C:\Users\rhant001\Desktop\c-_programing_101\WPF 01\WPF 01\bin\Debug\WPF 01.pdb
+C:\Users\rhant001\Desktop\c-_programing_101\WPF 01\WPF 01\bin\Debug\WPF 01.xml
+C:\Users\rhant001\Desktop\c-_programing_101\WPF 01\WPF 01\obj\Debug\WPF 01.vbproj.AssemblyReference.cache
+C:\Users\rhant001\Desktop\c-_programing_101\WPF 01\WPF 01\obj\Debug\WPF 01.vbproj.SuggestedBindingRedirects.cache
+C:\Users\rhant001\Desktop\c-_programing_101\WPF 01\WPF 01\obj\Debug\MainWindow.g.vb
+C:\Users\rhant001\Desktop\c-_programing_101\WPF 01\WPF 01\obj\Debug\Application.g.vb
+C:\Users\rhant001\Desktop\c-_programing_101\WPF 01\WPF 01\obj\Debug\WPF 01_MarkupCompile.cache
+C:\Users\rhant001\Desktop\c-_programing_101\WPF 01\WPF 01\obj\Debug\WPF 01_MarkupCompile.lref
+C:\Users\rhant001\Desktop\c-_programing_101\WPF 01\WPF 01\obj\Debug\MainWindow.baml
+C:\Users\rhant001\Desktop\c-_programing_101\WPF 01\WPF 01\obj\Debug\WPF 01.g.resources
+C:\Users\rhant001\Desktop\c-_programing_101\WPF 01\WPF 01\obj\Debug\WPF_01.Resources.resources
+C:\Users\rhant001\Desktop\c-_programing_101\WPF 01\WPF 01\obj\Debug\WPF 01.vbproj.GenerateResource.cache
+C:\Users\rhant001\Desktop\c-_programing_101\WPF 01\WPF 01\obj\Debug\WPF 01.vbproj.CoreCompileInputs.cache
+C:\Users\rhant001\Desktop\c-_programing_101\WPF 01\WPF 01\obj\Debug\WPF 01.exe
+C:\Users\rhant001\Desktop\c-_programing_101\WPF 01\WPF 01\obj\Debug\WPF 01.xml
+C:\Users\rhant001\Desktop\c-_programing_101\WPF 01\WPF 01\obj\Debug\WPF 01.pdb

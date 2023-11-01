@@ -1,0 +1,15 @@
+C:\Users\rhant001\Desktop\c-_programing_101\CodingC#\CodingC#\bin\Debug\net6.0\CodingC#.exe
+C:\Users\rhant001\Desktop\c-_programing_101\CodingC#\CodingC#\bin\Debug\net6.0\CodingC#.deps.json
+C:\Users\rhant001\Desktop\c-_programing_101\CodingC#\CodingC#\bin\Debug\net6.0\CodingC#.runtimeconfig.json
+C:\Users\rhant001\Desktop\c-_programing_101\CodingC#\CodingC#\bin\Debug\net6.0\CodingC#.dll
+C:\Users\rhant001\Desktop\c-_programing_101\CodingC#\CodingC#\bin\Debug\net6.0\CodingC#.pdb
+C:\Users\rhant001\Desktop\c-_programing_101\CodingC#\CodingC#\obj\Debug\net6.0\CodingC#.csproj.AssemblyReference.cache
+C:\Users\rhant001\Desktop\c-_programing_101\CodingC#\CodingC#\obj\Debug\net6.0\CodingC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rhant001\Desktop\c-_programing_101\CodingC#\CodingC#\obj\Debug\net6.0\CodingC#.AssemblyInfoInputs.cache
+C:\Users\rhant001\Desktop\c-_programing_101\CodingC#\CodingC#\obj\Debug\net6.0\CodingC#.AssemblyInfo.cs
+C:\Users\rhant001\Desktop\c-_programing_101\CodingC#\CodingC#\obj\Debug\net6.0\CodingC#.csproj.CoreCompileInputs.cache
+C:\Users\rhant001\Desktop\c-_programing_101\CodingC#\CodingC#\obj\Debug\net6.0\CodingC#.dll
+C:\Users\rhant001\Desktop\c-_programing_101\CodingC#\CodingC#\obj\Debug\net6.0\refint\CodingC#.dll
+C:\Users\rhant001\Desktop\c-_programing_101\CodingC#\CodingC#\obj\Debug\net6.0\CodingC#.pdb
+C:\Users\rhant001\Desktop\c-_programing_101\CodingC#\CodingC#\obj\Debug\net6.0\CodingC#.genruntimeconfig.cache
+C:\Users\rhant001\Desktop\c-_programing_101\CodingC#\CodingC#\obj\Debug\net6.0\ref\CodingC#.dll
